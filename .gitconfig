@@ -1,0 +1,2 @@
+[alias]
+	home = !git --git-dir=$HOME/.home.git --work-tree=$HOME -c status.showUntrackedFiles=no
